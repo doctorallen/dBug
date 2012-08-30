@@ -1,0 +1,5 @@
+<FilesMatch "\.php$">
+# set the prepend file setting
+php_value include_path ".:/var/www/"
+php_value auto_prepend_file "dbug_include.php"
+</FilesMatch>
