@@ -2,6 +2,7 @@
 ## How to setup
 
     Clone into root web directory.
+    Copy debug_include.php, dBug.php and .htaccess from the dBug folder to your root web directory.
     Make sure to change your includes directory in .htaccess
     
 ## How to use
