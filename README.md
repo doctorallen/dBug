@@ -1,8 +1,11 @@
 # dBug
+## How to setup
 
+    Clone into root web directory.
+    Make sure to change your includes directory in .htaccess
+    
 ## How to use
 
-    include_once("dBug.php");
     new dBug($myVariable);
 
 More examples at http://dbug.ospinto.com/examples.php
