@@ -1,4 +1,4 @@
 <?php
-include_once('dBug/dBug.php');
+include_once('dBug.php');
 
 ?>
